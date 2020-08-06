@@ -14,9 +14,10 @@ This project requires:
 The lab enviroment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
 
 The project includes the following files:
-* `model.py` containing the script to create and train the model
+* `behavioral_cloning.ipynb` containing the script to create and train the model
 * `drive.py` for driving the car in autonomous mode
 * `model.h5` containing a trained convolution neural network
+* `model_aug` containing a trained convolution neural network with more data collected
 
 The simulator can be downloaded [here](https://github.com/udacity/self-driving-car-sim)
 
